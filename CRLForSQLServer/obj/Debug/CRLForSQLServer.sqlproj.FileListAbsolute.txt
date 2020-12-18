@@ -1,0 +1,6 @@
+C:\Users\balir\source\repos\CRLForSQLServer\CRLForSQLServer\bin\Debug\CRLForSQLServer.dacpac
+C:\Users\balir\source\repos\CRLForSQLServer\CRLForSQLServer\bin\Debug\CRLForSQLServer.dll
+C:\Users\balir\source\repos\CRLForSQLServer\CRLForSQLServer\bin\Debug\CRLForSQLServer.pdb
+C:\Users\balir\source\repos\CRLForSQLServer\CRLForSQLServer\obj\Debug\CRLForSQLServer.sqlprojAssemblyReference.cache
+C:\Users\balir\source\repos\CRLForSQLServer\CRLForSQLServer\obj\Debug\CRLForSQLServer.dll
+C:\Users\balir\source\repos\CRLForSQLServer\CRLForSQLServer\obj\Debug\CRLForSQLServer.pdb
